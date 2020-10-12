@@ -1,5 +1,5 @@
 package usermysqltest.operation;
-import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
+import com.mysql.cj.jdbc.MysqlDataSource;
 import usermysqltest.model.User;
 import usermysqltest.model.UserCollections;
 
